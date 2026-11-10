@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d6658b84bdab7f2469cc8dbece76befe
+  - enabled: 1
+    path: Assets/Scenes/Yakinda.unity
+    guid: a11f0f71f5607ff4b9fd0da79df81610
+  - enabled: 1
+    path: Assets/Scenes/VakaYonetimi.unity
+    guid: c3b7a4674f4917143bf4e8b9978061bf
+  - enabled: 1
+    path: Assets/Scenes/ArrestYonetimi.unity
+    guid: e424393921d81d245b4c7cd2962ea718
+  - enabled: 1
+    path: Assets/Scenes/VatandasVakaYonetimi.unity
+    guid: c88c3617468286443850043734a72091
+  - enabled: 1
+    path: Assets/Scenes/VatandasArrestYonetimi.unity
+    guid: 2af677d20818dda468e1b804f0b73036
+  - enabled: 1
+    path: Assets/Scenes/DozMenu.unity
+    guid: 35dcfb0973ca11d4095ae7e12cf23648
+  - enabled: 1
+    path: Assets/Scenes/HipovolemikSok.unity
+    guid: faea4e084831b7e43b3a8df83ca021c9
+  - enabled: 1
+    path: Assets/Scenes/SFDoz.unity
+    guid: e7d583704698c3f40942edb1aedef109
+  - enabled: 1
+    path: Assets/Scenes/DopaminDoz.unity
+    guid: 434a9f02d9f629347833b805182db953
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
